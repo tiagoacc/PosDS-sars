@@ -10358,7 +10358,7 @@
         <group/>
         <nullif/>
         <trim_type>none</trim_type>
-        <length>100</length>
+        <length>-1</length>
         <precision>-1</precision>
       </field>
       <field>
@@ -10370,7 +10370,7 @@
         <group/>
         <nullif/>
         <trim_type>none</trim_type>
-        <length>9</length>
+        <length>-1</length>
         <precision>-1</precision>
       </field>
       <field>
@@ -10382,7 +10382,7 @@
         <group/>
         <nullif/>
         <trim_type>none</trim_type>
-        <length>13</length>
+        <length>-1</length>
         <precision>-1</precision>
       </field>
       <field>
@@ -10394,7 +10394,7 @@
         <group/>
         <nullif/>
         <trim_type>none</trim_type>
-        <length>7</length>
+        <length>-1</length>
         <precision>-1</precision>
       </field>
       <field>
@@ -10406,7 +10406,7 @@
         <group/>
         <nullif/>
         <trim_type>none</trim_type>
-        <length>12</length>
+        <length>-1</length>
         <precision>-1</precision>
       </field>
       <field>
@@ -10419,7 +10419,7 @@
         <nullif/>
         <trim_type>none</trim_type>
         <length>-1</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>TamanhoFATRISCO</name>
@@ -10431,7 +10431,7 @@
         <nullif/>
         <trim_type>none</trim_type>
         <length>-1</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>TamanhoIF</name>
@@ -10443,7 +10443,7 @@
         <nullif/>
         <trim_type>none</trim_type>
         <length>-1</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>TamanhoPCR</name>
@@ -10455,7 +10455,7 @@
         <nullif/>
         <trim_type>none</trim_type>
         <length>-1</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
     </fields>
     <attributes/>
